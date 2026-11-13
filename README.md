@@ -66,7 +66,7 @@ and the web page need. `Question_3_4.py` is independent of the others.
 | 5 | `python scripts/Question_2_1_SE.py` | 2.1 | `emb_train.npy`, `emb_test.npy` (cached embeddings) |
 | 6 | `python scripts/Question_2_1_LR.py` | 2.1 | prints results only |
 | 7 | `python scripts/Question_2_2_L1.py` | 2.2 | prints results only |
-| 8 | see [`deployment/README.md`](deployment/README.md) | 2.3 | web page at localhost:8501 |
+| 8 | `python scripts/Question_2_3.py` | 2.3 | web page at localhost:8501 |
 | 9 | `python scripts/Question_3_4.py` | 3.1 to 4.2 | figures in `docs/figures/`, `docs/lda_intertopic_map.html` |
 
 Notes:
