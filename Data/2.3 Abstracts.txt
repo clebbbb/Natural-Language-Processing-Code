@@ -1,0 +1,15 @@
+Pair Cases
+1.
+
+AI - We compare a long short-term memory neural network with random forest and support vector regression models for forecasting daily Bitcoin prices. Using machine learning feature selection and sentiment indicators from social media, the deep learning model achieves the lowest out-of-sample root mean squared error across all forecast horizons.
+Classical - This paper examines how a change in monetary policy affects hosuehold consumption and income inequality in a small open economy. We estimate a structural vector autoregression with sign restrictions and show that a rise in the interest rate lowers output and prices, with effects lasting about two years.
+
+2.
+
+AI - Accurate inflation forecasting is important for central banks. We train gradient boosting and artificial neural networks algorithms on a large panel of macroeconomic indicators and compare them with benchmark models. The machine learning algorithms improve prediction accuracy, particularly during periods of high economic uncertainty.
+Classical - Accurate inflation forecasting is important for central banks. We estimate an autoregressive distributed lag model and a Bayesian vector autoregression using quartely data on prices, unemployment and exchnage rates. The Bayesian specification gives lower forecast errors, particulary during periods of high economic uncertainty.
+
+3.
+
+AI - We propsie a hybrid forecasting framework that combines a quantile regressoon with a neural network to predict stock market volatility. The approach is evaluated on several equity indices and shows better density forecasts than standard econometric models.
+Classical - We propose a method for evaluating density forecasts based on weighted versions of the continuous ranked probability score. The weighting emphasises the tailes or the centre of the ditributiion while keeping the core proper, and we illustrate the approach using inflation and stock return data.
