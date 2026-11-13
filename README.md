@@ -41,7 +41,7 @@ researchly-nlp-assignment/
 Tested with **Python 3.13** on Windows.
 
 ```bash
-git clone https://github.com/[your-username]/researchly-nlp-assignment.git
+git clone https://github.com/clebbbb/researchly-nlp-assignment.git
 cd researchly-nlp-assignment
 pip install -r requirements.txt
 ```
